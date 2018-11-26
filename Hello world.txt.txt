@@ -1,4 +1,8 @@
-print ("Hello world")
-print ("Hello evrybody")
-print("Hello my dear friend")
-print("Glad to see tou")
+print ("Hello world;")
+print ("Hello evrybody;")
+print("Hello my dear friend;")
+print("Glad to see tou;")
+print ("Hello world;")
+print ("Hello evrybody;")
+print ("Hello;")
+
